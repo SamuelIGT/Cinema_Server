@@ -1,0 +1,7 @@
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/repository/CinemaRepository.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/service/CinemaService.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/config/SecurityConfig.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/bean/Cinema.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/Controller/CinemaController.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/service/impl/CinemaServiceImpl.java
+/home/davicedraz/Cinema_Server/src/main/java/br/quixada/ufc/vv/CinemaServerApplication.java

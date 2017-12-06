@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Cinema_Server,br.quixada.ufc.vv.Controller,CinemaController,5,23,0,0,1,6,1,5,1,5
+Cinema_Server,br.quixada.ufc.vv,CinemaServerApplication,5,3,0,0,2,1,1,1,1,1
+Cinema_Server,br.quixada.ufc.vv.bean,Cinema,4,20,0,0,2,8,1,6,1,6
+Cinema_Server,br.quixada.ufc.vv.config,SecurityConfig.new BasicAuthenticationEntryPoint() {...},37,6,2,0,8,1,2,1,1,1
+Cinema_Server,br.quixada.ufc.vv.config,SecurityConfig,0,48,0,0,0,14,0,3,0,3
+Cinema_Server,br.quixada.ufc.vv.service.impl,CinemaServiceImpl,6,74,0,10,1,19,1,11,1,6
