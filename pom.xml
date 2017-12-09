@@ -111,8 +111,8 @@
 				<version>3.2</version>
 				<configuration>
 					<rulesets>
-						<!-- Custom local file system rule set -->
-						<ruleset>pmd-rules.xml</ruleset>
+						<!-- Custom local file system rule set
+						<ruleset>pmd-rules.xml</ruleset> -->
 					</rulesets>
 				</configuration>
 			</plugin>
