@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.quixada.ufc.vv.CinemaServerApplicationTests
--------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.274 sec - in br.quixada.ufc.vv.CinemaServerApplicationTests
