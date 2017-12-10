@@ -4,7 +4,7 @@ jdk:
 - oraclejdk8
 
 script:
-    - mvn package
+    - mvn install
     
 before_install:
     - chmod +x mvnw
