@@ -9,8 +9,9 @@ script:
 before_install:
     - chmod +x mvnw
 
-# services:
-#     - postgresql
+services:
+    - postgresql
 
-# before_script:
-#     - psql -c 'create database vv'
+before_script:
+    - psql -c 'create database vv;' -U postgres
+#- psql -c 'create user postgres with password '1234';' -U postgres
