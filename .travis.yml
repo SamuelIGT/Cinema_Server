@@ -7,7 +7,7 @@ addons:
   sonarcloud:
     organization: davicedraz-github # the key of the org you chose at step #3
     token:
-      secure: SONAR_TOKEN # encrypted value of your token
+      secure: acbe4e9f247a37a80d21ea6b4b94046f50d64636 # encrypted value of your token
 
 script:
     - mvn install
